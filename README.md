@@ -3,7 +3,7 @@ A linear regression model to predict house prices based on existing features.
 
 ## Installation and Setup
 ```
-git clone https://github.com/whoparthgarg/House-Price-Prediction
+git clone https://github.com/jainbhavya0001/House-Price-Predicition/
 ```
 
 ## Data-set Examination 
@@ -15,7 +15,7 @@ The data-set in CSV format is shown below:
 * The target variable is the price.
 
 The data-set is available here:
-https://github.com/whoparthgarg/House-Price-Prediction/blob/main/USA_Housing.csv
+https://github.com/jainbhavya0001/House-Price-Prediction/blob/main/USA_Housing.csv
 
 ## Exploratory Data Analysis
 <center><img src="assets/eda_1.png" alt="logo"></center>
